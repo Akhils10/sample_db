@@ -1,6 +1,5 @@
 
 
-# Sample-DB for Tech Assesment task
 
 ## Tables
 
